@@ -15,7 +15,7 @@ public static void main(String[] args) {
 	for(int i =0;i<a.length;i++) {
 		System.out.println(a[i]);
 		System.out.println(1);
-		system.out.println("you are successful!");
+		System.out.println("you are successful!");
 	}
 }
 }
